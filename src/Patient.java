@@ -40,7 +40,7 @@ public class Patient {
                 ", gender='" + gender + '\'' +
                 '}';
     }
-    public boolean addPatient(){
-
-    }
+//    public boolean addPatient(){
+//
+//    }
 }
